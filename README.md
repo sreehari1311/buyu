@@ -1,2 +1,2 @@
 # buyu
-product entity comparison and match and merge
+product entity comparison and match and merge ( For study purpose)
